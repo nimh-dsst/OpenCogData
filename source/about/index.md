@@ -1,6 +1,6 @@
 ---
 title: About OpenData
-date: 2023-02-13 00:00:00
+date: 2023-10-29 00:00:00
 ---
 
 OpenData is a database of publicly available behavioral datasets. To browse the database, click on the links above or use the search bar at the top-right of this page.
@@ -16,10 +16,10 @@ The goal of this project is simply to make it easier for researchers to find and
 The scope of this project is to catalogue any and all open datasets involving experimental or cognitive tasks (e.g., Stroop, delay discounting, 2-arm bandits). Datasets involving more naturalistic behaviors are also welcomed. The only firm requirement is that trial-level data must be available.
 
 <h2 style="margin: 1em 0em 0.5em 0em">Who maintains OpenData?</h2>
-This project is maintained by <a href="https://szorowi1.github.io" target="_blank">Sam Zorowitz</a> with help from other members of the <a href="https://nivlab.princeton.edu" target="_blank">Niv Lab</a>.
+This project is maintained by the <a href="https://cmn.nimh.nih.gov/dsst" target="_blank">Data Science and Sharing Team</a> at the National Institute of Mental Health.
 
 <h2 style="margin: 1em 0em 0.5em 0em">How can I add a dataset?</h2>
 Please see the <a href="../contribute">contributing</a> page.
 
 <h2 style="margin: 1em 0em 0.5em 0em">How can I report an issue?</h2>
-Please open an issue on our <a href="https://www.github.com/nivlab/opendata/issues/new" target="_blank">Github</a> or directly <a href="mailto:zorowitz@princeton.edu">contact</a> the maintainer.
+Please open an issue on our <a href="https://www.github.com/nimh-dsst/opendata/issues/new" target="_blank">Github</a> or directly <a href="mailto:szorowi1@gmail.com">contact</a> the maintainer.
