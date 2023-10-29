@@ -7,13 +7,13 @@ title: OpenData
 subtitle: ''
 description: A collection of publicly available behavioral datasets
 keywords:
-author: Niv Lab
+author: Data Science & Sharing Team @ National Institute of Mental Health
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://nivlab.github.io/opendata/
+url: https://nimh-dsst.github.io/opendata/
 permalink: :post_title/
 permalink_defaults:
 pretty_urls:

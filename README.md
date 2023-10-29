@@ -1,6 +1,6 @@
 # OpenData
 
-A collection of publicly available behavioral datasets maintained by the Niv lab.
+A collection of publicly available behavioral datasets maintained by the Data Science & Sharing Team at the National Institute of Mental Health.
 
 This project is hosted on GitHub Pages using [Hexo](https://hexo.io/docs/) and [Anatolo](https://github.com/Lhcfl/hexo-theme-anatolo).
 
@@ -10,13 +10,13 @@ Have a dataset to submit? Fill out this form: https://forms.gle/N87Dqhs73vbfoPec
 
 ## Contributing
 
-To contribute to OpenData, please see the [contributing](https://nivlab.github.io/opendata/contribute) page.
+To contribute to OpenData, please see the [contributing](https://nimh-dsst.github.io/opendata/contribute) page.
 
 ### Previewing the demos page locally
 
 If you'd like to preview OpenData locally (for example, in the process of proposing a change):
 
-1. Clone down the project's repository (`git clone https://github.com/nivlab/opendata`)
+1. Clone down the project's repository (`git clone https://github.com/nimh-dsst/opendata`)
 2. `cd` into the project's directory
 3. Run `npm install` to install the necessary dependencies
 4. Run `hexo generate` to generate the site

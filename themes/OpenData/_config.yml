@@ -1,6 +1,6 @@
 # Blog config
 keywords:
-author: Niv Lab
+author: DSST/NIMH
 description: A collection of publicly available<br>behavioral datasets
 
 # icon
@@ -21,7 +21,7 @@ footbar:
 
 # Social Links
 # If you want to add more, go to sidebar.pug
-github: https://github.com/nivlab/opendata
+github: https://github.com/nimh-dsst/opendata
 mail:
 zhihu:
 QQ:
