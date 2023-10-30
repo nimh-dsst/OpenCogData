@@ -16,7 +16,7 @@ The goal of this project is simply to make it easier for researchers to find and
 The scope of this project is to catalogue any and all open datasets involving experimental or cognitive tasks (e.g., Stroop, delay discounting, 2-arm bandits). Datasets involving more naturalistic behaviors are also welcomed. The only firm requirement is that trial-level data must be available.
 
 <h2 style="margin: 1em 0em 0.5em 0em">Who maintains OpenData?</h2>
-This project is maintained by the <a href="https://cmn.nimh.nih.gov/dsst" target="_blank">Data Science and Sharing Team</a> at the National Institute of Mental Health.
+This project is maintained by Sam Zorowitz and the <a href="https://cmn.nimh.nih.gov/dsst" target="_blank">Data Science and Sharing Team</a> at the National Institute of Mental Health.
 
 <h2 style="margin: 1em 0em 0.5em 0em">How can I add a dataset?</h2>
 Please see the <a href="../contribute">contributing</a> page.
