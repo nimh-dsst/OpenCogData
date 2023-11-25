@@ -1,16 +1,16 @@
 ---
 title: Mason et al. (2022)
-subtitle: Risky Effort
-date: 2022/12/19
+subtitle: "Risky Choice and Memory for Effort: Hard Work Stands Out"
+date: 2022/11/03
 authors:
 - Mason, Alice
-- Sun, Yongming
-- Simonsen, Nick
 - Madan, Christopher R
-- Spetch, Marcia L
+- Freas, Cody A
+- Simonsen, Nick
 - Ludvig, Elliot Andrew
-journal: PsyArXiv
-paper_url: https://doi.org/10.31234/osf.io/ck5bw
+- Spetch, Marcia L
+journal: Decision
+paper_url: https://doi.org/10.1037/dec0000197
 data_url: https://osf.io/695js/
 tags:
 - effort

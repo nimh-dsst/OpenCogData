@@ -1,7 +1,7 @@
 ---
-title: Giron et al. (2022)
+title: Giron et al. (2023)
 subtitle: Developmental changes resemble stochastic optimization
-date: 2022/04/02
+date: 2023/06/21
 authors:
 - Giron, Anna P
 - Ciranka, Simon Kai
@@ -10,8 +10,8 @@ authors:
 - Ruggeri, Azzurra
 - Meder, Björn
 - Wu, Charley M
-journal: PsyArXiv
-paper_url: https://doi.org/10.31234/osf.io/9f4k3
+journal: Nature Human Behavior
+paper_url: https://doi.org/10.1038/s41562-023-01662-1
 data_url: https://github.com/AnnaGiron/developmental_trajectory
 tags:
 - explore/exploit

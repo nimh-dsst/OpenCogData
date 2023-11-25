@@ -1,5 +1,5 @@
 ---
-title: Hayes & Wedell (2023)
+title: Hayes & Wedell (2023a)
 subtitle: 'Testing models of context-dependent outcome encoding in reinforcement learning'
 date: 2023/01/01
 authors:

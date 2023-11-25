@@ -1,12 +1,12 @@
 ---
 title: Ehlers & Lonsdorf (2022)
 subtitle: 'Data sharing in experimental fear and anxiety research: From challenges to a dynamically growing database in 10 simple steps'
-date: 2022/11/15
+date: 2022/12/01
 authors:
 - Ehlers, Mana R
 - Lonsdorf, Tina B
-journal: PsyArXiv
-paper_url: https://doi.org/10.31234/osf.io/8crk3
+journal: Neuroscience & Biobehavioral Reviews
+paper_url: https://doi.org/10.1016/j.neubiorev.2022.104958
 data_url: https://osf.io/4kueh/
 tags:
 - pavlovian conditioning

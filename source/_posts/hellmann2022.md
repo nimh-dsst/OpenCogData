@@ -1,13 +1,13 @@
 ---
-title: Hellmann et al. (2022)
+title: Hellmann et al. (2023)
 subtitle: Simultaneous modeling of choice, confidence and response time in visual perception
-date: 2022/03/29
+date: 2023/03/13
 authors:
 - Hellmann, Sebastian
 - Zehetleitner, Michael
 - Rausch, Manuel
-journal: PsyArXiv
-paper_url: https://doi.org/10.31234/osf.io/3nq2g
+journal: Psychological Review
+paper_url: https://doi.org/10.1037/rev0000411
 data_url: https://github.com/SeHellmann/SeqSamplingConfidenceModels
 tags:
 - perceptual decision making

@@ -1,7 +1,7 @@
 ---
-title: Kucina et al. (2022)
-subtitle: A Solution to The Reliability Paradox for Decision-Conflict Tasks
-date: 2022/02/22
+title: Kucina et al. (2023)
+subtitle: Calibration of cognitive tests to address the reliability paradox for decision-conflict tasks
+date: 2023/03/30
 authors:
 - Kucina, Talira
 - Wells, Lindsay
@@ -13,8 +13,8 @@ authors:
 - Matzke, Dora
 - Aidman, Eugene
 - Heathcote, Andrew, PhD
-journal: PsyArXiv
-paper_url: https://doi.org/10.31234/osf.io/bc6nk
+journal: Nat Commun
+paper_url: https://doi.org/10.1038/s41467-023-37777-2
 data_url: https://osf.io/5f8tz/
 tags:
 - cognitive control

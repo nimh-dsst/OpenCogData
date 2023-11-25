@@ -1,12 +1,12 @@
 ---
-title: Harhen & Bornstein (2022)
+title: Harhen & Bornstein (2023)
 subtitle: Overharvesting in human patch foraging reflects rational structure learning and adaptive planning
-date: 2022/12/02
+date: 2023/03/24
 authors:
 - Harhen, Nora
 - Bornstein, Aaron
-journal: PsyArXiv
-paper_url: https://doi.org/10.31234/osf.io/9nmvj
+journal: Proceedings of the National Academy of Sciences
+paper_url: https://doi.org/10.1073/pnas.2216524120
 data_url: https://github.com/noraharhen/Harhen-Bornstein-2022---Overharvesting-as-Rational-Learning
 tags:
 - foraging

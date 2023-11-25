@@ -1,14 +1,14 @@
 ---
-title: Zerna et al. (2022)
-subtitle: 'When easy is not preferred: A discounting paradigm to assess load-independent task preference'
-date: 2022/03/24
+title: Zerna et al. (2023)
+subtitle: 'Need for Cognition is associated with a preference for higher task load in effort discounting'
+date: 2023/11/09
 authors:
 - Zerna, Josephine
 - Scheffel, Christoph
 - Kührt, Corinna
 - Strobel, Alexander
-journal: PsyArXiv
-paper_url: https://doi.org/10.31234/osf.io/ysh3q
+journal: Sci Rep
+paper_url: https://doi.org/10.1038/s41598-023-44349-3
 data_url: https://osf.io/vnj8x/
 tags:
 - 

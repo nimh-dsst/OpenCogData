@@ -1,14 +1,14 @@
 ---
-title: Kahveci et al. (2022)
+title: Kahveci et al. (2023)
 subtitle: 'How pre-processing decisions affect the reliability and validity of the Approach-Avoidance Task: Evidence from simulations and multiverse analyses with six datasets'
-date: 2022/11/14
+date: 2023/05/23
 authors:
 - Kahveci, Sercan
 - Rinck, Mike
 - van Alebeek, Hannah
 - Blechert, Jens
-journal: PsyArXiv
-paper_url: https://doi.org/10.31234/osf.io/5xu3e
+journal: Behavior Research Methods
+paper_url: https://doi.org/10.3758/s13428-023-02109-1
 data_url: https://osf.io/yfx2c/
 tags:
 - approach/avoidance

@@ -1,7 +1,7 @@
 ---
-title: Dercon et al. (2022)
+title: Dercon et al. (2023)
 subtitle: A core component of psychological therapy causes adaptive changes in computational learning mechanisms
-date: 2022/03/17
+date: 2023/06/08
 authors:
 - Dercon, Quentin
 - Mehrhof, Sara Z
@@ -11,8 +11,8 @@ authors:
 - Pizzagalli, Diego A
 - Dalgleish, Tim
 - Nord, Camilla
-journal: PsyArXiv
-paper_url: https://doi.org/10.31234/osf.io/jmnek
+journal: Psychological Medicine
+paper_url: https://doi.org/10.1017/S0033291723001587
 data_url: https://github.com/qdercon/pstpipeline
 tags:
 - 2-arm bandit

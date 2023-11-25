@@ -1,12 +1,12 @@
 ---
-title: Hayes & Wedell (2022)
+title: Hayes & Wedell (2023b)
 subtitle: Effects of Blocked versus Interleaved Training on Relative Value Learning
-date: 2022/08/24
+date: 2023/04/18
 authors:
 - Hayes, William M
 - Wedell, Douglas
-journal: PsyArXiv
-paper_url: https://doi.org/10.31234/osf.io/czekv
+journal: Psychon Bull Rev
+paper_url: https://doi.org/10.3758/s13423-023-02290-6
 data_url: https://osf.io/nvsd4/
 tags:
 - 2-arm bandit

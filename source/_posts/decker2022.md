@@ -1,14 +1,14 @@
 ---
 title: Decker, Dubois et al. (2022)
 subtitle: 'Pay attention and you might miss it: Greater learning during attentional lapses'
-date: 2022/10/28
+date: 2022/12/12
 authors:
 - Dubois, Michael
 - Decker, Alexandra
 - Duncan, Katherine
 - Finn, Amy
-journal: PsyArXiv
-paper_url: https://doi.org/10.31234/osf.io/pc4jq
+journal: Psychonomic Bulletin & Review
+paper_url: https://doi.org/10.3758/s13423-022-02226-6
 data_url: https://github.com/alexandradecker/learning-more-when-attending-less
 tags:
 - cognitive control

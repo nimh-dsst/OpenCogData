@@ -1,7 +1,7 @@
 ---
-title: Naefgen et al. (2022)
+title: Naefgen et al. (2023)
 subtitle: Between- and Within-Subject Covariance Perspectives Matter for Investigations into the Relationship Between Single- and Dual-Tasking Performance
-date: 2022/05/25
+date: 2023/11/01
 authors:
 - Naefgen, Christoph
 - Blech, Christine
@@ -9,8 +9,8 @@ authors:
 - Haider, Hilde
 - Ram, Nilam
 - Gaschler, Robert
-journal: PsyArXiv
-paper_url: https://doi.org/10.31234/osf.io/d4vap
+journal: Methods in Psychology
+paper_url: https://doi.org/10.1016/j.metip.2023.100110
 data_url: https://osf.io/dgpt5/
 tags:
 - cognitive control

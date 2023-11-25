@@ -1,15 +1,15 @@
 ---
-title: O'Connell et al. (2202)
+title: O'Connell et al. (2022)
 subtitle: Modeling variation in empathic sensitivity using go/no-go social reinforcement learning
-date: 2021/07/24
+date: 2022/04/10
 authors:
 - O'Connell, Katherine
 - Walsh, Marissa
 - Padgett, Brandon
 - Connell, Sarah
 - Marsh, Abigail
-journal: PsyArXiv
-paper_url: https://doi.org/10.31234/osf.io/drcq6
+journal: Affec Sci
+paper_url: https://doi.org/10.1007/s42761-022-00119-4
 data_url: https://osf.io/u9fx3/
 tags:
 - social decision making

@@ -1,15 +1,15 @@
 ---
-title: Sedlinská et al. (2022)
+title: Sedlinská et al. (2023)
 subtitle: Transcranial direct-current stimulation enhances Pavlovian tendencies during intermittent loss of control
-date: 2022/12/16
+date: 2023/05/09
 authors:
 - Sedlinská, Terezie
 - Bolte, Lara
 - Melsæter, Eirik
 - Mittner, Matthias
 - Csifcsák, Gábor
-journal: PsyArXiv
-paper_url: https://doi.org/10.31234/osf.io/9v5sy
+journal: Frontiers in Psychology
+paper_url: https://doi.org/10.3389/fpsyt.2023.1164208
 data_url: https://osf.io/73huk/
 tags:
 - tdcs

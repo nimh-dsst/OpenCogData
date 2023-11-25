@@ -1,14 +1,14 @@
 ---
-title: Alister et al. (2022)
+title: Alister et al. (2023)
 subtitle: Uncovering the Cognitive Mechanisms Underlying the Gaze Cueing Effect
-date: 2022/03/29
+date: 2023/05/29
 authors:
 - Alister, Manikya
 - McKay, Kate T
 - Sewell, David K
 - Evans, Nathan J
-journal: PsyArXiv
-paper_url: https://doi.org/10.31234/osf.io/yu7e5
+journal: Quarterly Journal of Experimental Psychology
+paper_url: https://doi.org/10.1177/17470218231181238
 data_url: https://github.com/ManikyaAlister/Gaze-Cueing
 tags:
 - social decision making

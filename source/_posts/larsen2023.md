@@ -1,7 +1,7 @@
 ---
-title: Larsen et al. (2022)
+title: Larsen et al. (2023)
 subtitle: Hallucination-proneness is associated with a decrease in robust averaging of perceptual evidence
-date: 2022/03/28
+date: 2023/08/25
 authors:
 - Larsen, Emmett M
 - Jin, Jingwen
@@ -10,8 +10,8 @@ authors:
 - Horga, Guillermo
 - Luhmann, Christian
 - Mohanty, Aprajita
-journal: PsyArXiv
-paper_url: https://doi.org/10.31234/osf.io/vu59a
+journal: Schizophrenia Bulletin
+paper_url: https://doi.org/10.1093/schbul/sbad129
 data_url: https://osf.io/9vp37/
 tags:
 - perceptual decision making
