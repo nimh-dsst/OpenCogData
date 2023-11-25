@@ -1,5 +1,5 @@
 ---
-title: Hayes & Wedell (2022b)
+title: Hayes & Wedell (2022)
 subtitle: Effects of Blocked versus Interleaved Training on Relative Value Learning
 date: 2022/08/24
 authors:

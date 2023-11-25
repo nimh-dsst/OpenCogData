@@ -1,5 +1,5 @@
 ---
-title: Devine et al. (2023)
+title: Devine et al. (2023a)
 subtitle: 'Distinguishing between intrinsic and instrumental sources of the value of choice'
 date: 2023/06/21
 authors:

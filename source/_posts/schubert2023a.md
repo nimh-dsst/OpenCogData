@@ -1,5 +1,5 @@
 ---
-title: Schubert et al. (2023)
+title: Schubert et al. (2023a)
 subtitle: "Don't waste your time measuring intelligence: Further evidence for the validity of a three-minute speeded reasoning test"
 date: 2023/01/30
 authors:

@@ -1,15 +1,15 @@
 ---
 title: Wamsley et al. (2023)
 subtitle: 'Memory Consolidation during Ultra-Short Offline States'
-date: 2023/08/17
+date: 2023/10/01
 authors:
 - Wamsley, Erin J
 - Arora, Madison
 - Gibson, Hannah
 - Powell, Piper Nicole
 - Collins, Megan B
-journal: PsyArXiv
-paper_url: https://doi.org/10.31234/osf.io/7hg3t
+journal: J. Cogn. Neurosci.
+paper_url: https://doi.org/10.1162/jocn_a_02035
 data_url: https://osf.io/ehdb4/
 tags:
 - 

@@ -5,10 +5,10 @@ date: 2023/02/07
 authors:
 - Fleming, Hugo
 - Robinson, Oliver J
-- Roiser, Jonathan
+- Roiser, Jonathan P
 journal: Cogn. Affect. Behav. Neurosci.
 paper_url: https://doi.org/10.3758/s13415-023-01065-9
-data_url: 10.17605/OSF.IO/X34KN
+data_url: https://osf.io/x34kn
 tags:
 - effort
 - cognitive control

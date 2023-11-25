@@ -1,6 +1,6 @@
 ---
 title: Embrey et al. (2023)
-subtitle: Is All Mental Effort Equal? The Role of Cognitive Demand-Type on Effort Avoidance
+subtitle: 'Is All Mental Effort Equal? The Role of Cognitive Demand-Type on Effort Avoidance'
 date: 2023/03/02
 authors:
 - Embrey, Jake Ryan
@@ -8,7 +8,7 @@ authors:
 - Newell, Ben R
 journal: Cognition
 paper_url: https://doi.org/10.1016/j.cognition.2023.105440
-data_url: https://osf.io/ydsau/
+data_url: https://osf.io/ydsau/?view_only=3de5b358275c420f86df48a9b96e720f
 tags:
 - effort
 - working memory
