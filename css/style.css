@@ -94,11 +94,11 @@ a:active {
 .content {
   height: auto;
   float: right;
-  width: 70%;
+  width: 75%;
   margin-top: 60px;
 }
 .page-top {
-  width: 70%;
+  width: 75%;
   position: fixed;
   right: 0;
   z-index: 3;
@@ -151,7 +151,7 @@ a:active {
   padding-right: 40px;
 }
 .sidebar {
-  width: 30%;
+  width: 25%;
   -webkit-background-size: cover;
   background-size: cover;
   background-color: #fff;
