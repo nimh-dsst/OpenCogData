@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: OpenData
+title: OpenCogData
 subtitle: ''
-description: A collection of publicly available behavioral datasets
+description: A collection of publicly available cognitive task datasets
 keywords:
 author: Data Science & Sharing Team @ National Institute of Mental Health
 language: en
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://nimh-dsst.github.io/opendata/
+url: https://nimh-dsst.github.io/opencogdata/
 permalink: :post_title/
 permalink_defaults:
 pretty_urls:
@@ -99,7 +99,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: OpenData
+theme: OpenCogData
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
