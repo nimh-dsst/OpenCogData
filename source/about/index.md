@@ -1,6 +1,6 @@
 ---
 title: About OpenCogData
-date: 2023-10-29 00:00:00
+date: 2023-12-03 00:00:00
 ---
 
 OpenCogData is a database of publicly available cognitive task datasets. To browse the database, click on the links above or use the search bar at the top-right of this page.
