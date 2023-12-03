@@ -16,17 +16,17 @@ Have a dataset to submit? Fill out this form: https://forms.gle/N87Dqhs73vbfoPec
 
 ## Contributing
 
-To contribute to OpenCogData, please see the [contributing](https://nimh-dsst.github.io/opencogdata/contribute) page.
+To contribute to OpenCogData, please see the [contributing](https://nimh-dsst.github.io/OpenCogData/contribute) page.
 
 ### Previewing the demos page locally
 
 If you'd like to preview OpenCogData locally (for example, in the process of proposing a change):
 
-1. Clone down the project's repository (`git clone https://github.com/nimh-dsst/opencogdata`)
+1. Clone down the project's repository (`git clone https://github.com/nimh-dsst/OpenCogData`)
 2. `cd` into the project's directory
 3. Run `npm install` to install the necessary dependencies
 4. Run `hexo generate` to generate the site
 5. Run `hexo server` to start the preview server
-6. Visit `localhost:4000/opencogdata` in your browser to preview the project
+6. Visit `localhost:4000/OpenCogData` in your browser to preview the project
 
 If you do not already have Hexo installed, please see their [installation page](https://hexo.io/docs/#Installation).

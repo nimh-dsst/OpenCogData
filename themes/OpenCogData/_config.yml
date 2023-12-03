@@ -21,7 +21,7 @@ footbar:
 
 # Social Links
 # If you want to add more, go to sidebar.pug
-github: https://github.com/nimh-dsst/opencogdata
+github: https://github.com/nimh-dsst/OpenCogData
 mail:
 zhihu:
 QQ:
@@ -33,11 +33,11 @@ weibo:
 
 # Nav menu
 menu:
-  Home: /opencogdata
-  Archives: /opencogdata/archives
-  Tags: /opencogdata/tags
-  About: /opencogdata/about
-  Contribute: /opencogdata/contribute
+  Home: /OpenCogData
+  Archives: /OpenCogData/archives
+  Tags: /OpenCogData/tags
+  About: /OpenCogData/about
+  Contribute: /OpenCogData/contribute
   # Links: /links
 
 # Navbar rightbtn
